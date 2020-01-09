@@ -7,7 +7,8 @@ const Users = () => {
     { 
       id: 'u1',
       name: 'John Doe',
-      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv3rrr58HrON4U10CMC2tXrpmfQE8OhpIa76Zgn0GHdHFqU6u-&s'
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv3rrr58HrON4U10CMC2tXrpmfQE8OhpIa76Zgn0GHdHFqU6u-&s',
+      places: 3
     }
   ];
 
